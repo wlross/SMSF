@@ -1,2 +1,2 @@
 # SMSF
-toying around w. insurance ideas
+pulled together some LP and Explainability ideas in the insurnace space
