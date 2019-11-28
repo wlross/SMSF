@@ -1,2 +1,2 @@
 # SMSF
-pulled together some LP and Explainability ideas in the insurnace space
+pulled together some LP and Explainability ideas in the insurance space
